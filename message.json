@@ -2,8 +2,22 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Es una obsesión",
-    "body": "No es amor, no es amor"
+    "title": "Post 1",
+    "body": "Manghi scarso in CSS"
+  }
+  
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Post 2",
+    "body": "Tyumi spacca su CSS"
+  }
+  
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Post 3",
+    "body": "C H U N K E E se ne frega"
   }
 ]
   
